@@ -15,7 +15,7 @@ spec:
         name: back
     spec:
       containers:
-      - image: 312496994610.dkr.ecr.us-east-1.amazonaws.com/fred-wize-go:v1.0
+      - image: 312496994610.dkr.ecr.us-east-1.amazonaws.com/fred-wize-go
         name: back  
         ports:
         - containerPort: 8080
