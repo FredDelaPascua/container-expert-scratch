@@ -15,7 +15,7 @@ spec:
         name: middle
     spec:
       containers:
-      - image: 312496994610.dkr.ecr.us-east-1.amazonaws.com/fred-wize-nodejs
+      - image: 312496994610.dkr.ecr.us-east-1.amazonaws.com/fred-wize-nodejs:71a96ed
         name: middle  
         ports:
         - containerPort: 8080
