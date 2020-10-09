@@ -15,7 +15,7 @@ spec:
         name: front
     spec:
       containers:
-      - image: kontinu/python-expert:v1.0
+      - image: kontinu/python-expert:f39c4d2
         name: front  
         ports:
         - containerPort: 8080
