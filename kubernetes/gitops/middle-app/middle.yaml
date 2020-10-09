@@ -15,7 +15,7 @@ spec:
         name: middle
     spec:
       containers:
-      - image: kontinu/nodejs-expert:v1.0
+      - image: 312496994610.dkr.ecr.us-east-1.amazonaws.com/fred-wize-nodejs:v1.0
         name: middle  
         ports:
         - containerPort: 8080
