@@ -15,7 +15,7 @@ spec:
         name: front
     spec:
       containers:
-      - image: 312496994610.dkr.ecr.us-east-1.amazonaws.com/fred-wize:e280388
+      - image: 312496994610.dkr.ecr.us-east-1.amazonaws.com/fred-wize:f39c4d2
         name: front  
         ports:
         - containerPort: 8080
